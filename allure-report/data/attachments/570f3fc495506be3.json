@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "./option[normalize-space(text()) = \"Maestría en Ingeniería de Software\"]|./optgroup/option[normalize-space(text()) = \"Maestría en Ingeniería de Software\"]"
+}

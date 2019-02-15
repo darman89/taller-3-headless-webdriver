@@ -1,0 +1,58 @@
+{
+  "uid" : "3955aaa857136241",
+  "name" : "debería visitar los estudiantes y fallar en el login",
+  "fullName" : "Login en los estudiantes.debería visitar los estudiantes y fallar en el login",
+  "historyId" : "c35f267a63bedef4215a573b230b65e3",
+  "time" : {
+    "start" : 1550117987339,
+    "stop" : 1550117992793,
+    "duration" : 5454
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Prueba-1"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login en los estudiantes"
+  }, {
+    "name" : "testClass",
+    "value" : "Login en los estudiantes"
+  }, {
+    "name" : "testMethod",
+    "value" : "debería visitar los estudiantes y fallar en el login"
+  }, {
+    "name" : "package",
+    "value" : "Login en los estudiantes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3955aaa857136241.json",
+  "parameterValues" : [ "chrome" ]
+}

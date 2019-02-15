@@ -1,0 +1,31 @@
+[ {
+  "uid" : "259661a5654e7239",
+  "name" : "debera mostrar el perfil de un docente",
+  "time" : {
+    "start" : 1550122878584,
+    "stop" : 1550122886281,
+    "duration" : 7697
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25375cae293a3a7a",
+  "name" : "debera mostrar el perfil de un docente y seleccionar una materia",
+  "time" : {
+    "start" : 1550122878756,
+    "stop" : 1550122887698,
+    "duration" : 8942
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2b2d51d624728bd",
+  "name" : "debería visitar los estudiantes y fallar en el login",
+  "time" : {
+    "start" : 1550122878580,
+    "stop" : 1550122885618,
+    "duration" : 7038
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

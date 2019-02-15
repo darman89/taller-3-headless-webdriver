@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Feb 14 00:41:18 COT 2019","Thu Feb 14 00:41:26 COT 2019","7697","","Carga de perfil docente","","Carga de perfil docente","debera mostrar el perfil de un docente","debera mostrar el perfil de un docente",""
+"passed","Thu Feb 14 00:41:18 COT 2019","Thu Feb 14 00:41:27 COT 2019","8942","","Carga de perfil docente y filtro de materia","","Carga de perfil docente y filtro de materia","debera mostrar el perfil de un docente y seleccionar una materia","debera mostrar el perfil de un docente y seleccionar una materia",""
+"passed","Thu Feb 14 00:41:18 COT 2019","Thu Feb 14 00:41:25 COT 2019","7038","","Login en los estudiantes","","Login en los estudiantes","debería visitar los estudiantes y fallar en el login","debería visitar los estudiantes y fallar en el login",""
