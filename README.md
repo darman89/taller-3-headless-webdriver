@@ -19,3 +19,7 @@ En una nueva consola se digita el siguiente comando:
 ```
 node_modules/.bin/wdio wdio.conf.js
 ```
+
+Implementado el reporteador gráfico Allure (Ver carpeta allure-report para más detalles)
+
+![alt text](https://github.com/darman89/taller-3-headless-webdriver/blob/master/Allure-Report.png "Pruebas Taller 3")
